@@ -89,6 +89,6 @@ This project focuses on analyzing customer churn data to identify patterns and f
 
 ---
 
-## ⚙️ How to Run
+ ## 🙋‍♂️ Author
 
-1. Clone the repository:
+- Sandip Kumar jha 
