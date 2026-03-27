@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis
+# 📊 Customer Churn Analysis 
 
 This project focuses on analyzing customer churn data to identify patterns and factors that lead to customer attrition. The goal is to help businesses improve customer retention using data-driven insights.
 
